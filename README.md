@@ -1,7 +1,7 @@
 # Motion Transition – Comparative Demos
 
 ## Transition Length Matters
-![Fixed10 / Fixed50 / Dynamic](Transition time comparison.gif)
+![Fixed10 / Fixed50 / Dynamic](Transition_time_comparison.gif)
 
 *Transition length ablation (Fixed-10, Fixed-50, Dynamic).
 Fixed-10 fails to smooth large pose gaps (visible jitter at the seam);
